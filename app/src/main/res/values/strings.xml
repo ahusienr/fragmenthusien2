@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentHusen</string>
+    <string name="action_setting">Settings</string>
+    <string name="hellow_blank_fragment">Hello Blank Fragment</string>
+    <string name="title_activity_second">Title Activity Second</string>
+    <string name="pencet_tombol">Tekan Tombolnya</string>
+    <string name="tampil_tombol">Tampilkan Detail</string>
+</resources>
